@@ -1,3 +1,4 @@
+"use client"
 import TypeScriptSDK from "@telmanwisley/typescript-sdk";
 import { ChangeEvent, useState } from "react";
 import { Input } from "./common";
